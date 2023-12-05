@@ -5,4 +5,7 @@ See [DEVELOPMENT.md](DEVELOPMENT.md) for more information on how to run the code
 ## Solution notes 
 
 ### Day 3
-I did took two different approaches to solve part1/part2. Not sure which is more efficient. 
+I did took two different approaches to solve part1/part2. Not sure which is more efficient.
+
+### Day 4
+no nodes, solution was pretty straightforward
